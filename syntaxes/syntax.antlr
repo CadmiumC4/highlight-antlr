@@ -1,2 +1,4 @@
 
-grammar:
+grammar T;
+
+decl : ID;
